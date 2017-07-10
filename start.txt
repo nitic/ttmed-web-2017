@@ -1,3 +1,11 @@
 <?php
 
 echo 'hi 5555';
+
+echo '11';
+
+int a;
+int b;
+
+
+a+b =c 
